@@ -1,5 +1,7 @@
 # Queue of Customers
 
+![Queue Demo](screenshots/queue-demo.gif)
+
 ## Project Overview
 
 A customer queue management system developed using C#.
