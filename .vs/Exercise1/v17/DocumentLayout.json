@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98335F12-E8C9-43DA-831A-06290247A820}|Exercise1.csproj|\\\\mac\\home\\downloads\\suatkocar23649252\\exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98335F12-E8C9-43DA-831A-06290247A820}|Exercise1.csproj|\\\\mac\\home\\downloads\\suatkocar23649252\\exercise1\\customerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98335F12-E8C9-43DA-831A-06290247A820}|Exercise1.csproj|\\\\mac\\home\\downloads\\suatkocar23649252\\exercise1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98335F12-E8C9-43DA-831A-06290247A820}|Exercise1.csproj|\\\\mac\\home\\downloads\\suatkocar23649252\\exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFwAAAD8/////38jwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:09:51.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerQueue.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\CustomerQueue.cs",
+              "RelativeDocumentMoniker": "CustomerQueue.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\CustomerQueue.cs",
+              "RelativeToolTip": "CustomerQueue.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:09:42.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAcAAAAAAgAAAEAlwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:09:36.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\SuatKocar23649252\\Exercise1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:09:21.58Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
