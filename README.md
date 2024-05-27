@@ -1,5 +1,5 @@
 # Queue of Customers
-# Windows Form Application
+## Windows Form Application
 
 ![Queue Demo](screenshots/queue-demo.gif)
 
